@@ -13,7 +13,6 @@
 - 💬 Ask me about **python**
 - 📫 How to reach me **kasbekar.a@northeastern.edu**
 - ⚡ Fun fact **I am a coffee Addict !**
-![image](https://github.com/aadityaKasbekar/aadityaKasbekar/assets/144738512/8e4ac220-0b97-4f74-901a-853a940faafc)
 
 ###
 
