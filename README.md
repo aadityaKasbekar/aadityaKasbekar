@@ -42,4 +42,6 @@
   </a>
 </div>
 
-###
+### 💬 Contact Me
+
+[![Outlook](https://img.shields.io/badge/-kasbekar.a@northeastern.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kasbekar.a@northeastern.edu)
