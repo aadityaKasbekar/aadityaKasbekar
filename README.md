@@ -2,6 +2,28 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aadityaKasbekar/count.svg?"  />
+</div>
+
+###
+
+- 🔭 I’m currently studing at Northeastern University's College of Engineering.
+- 🌱 I’m currently learning **Data Science**
+- 💬 Ask me about **python**
+- 📫 How to reach me **kasbekar.a@northeastern.edu**
+- ⚡ Fun fact **I am a coffee Addict !**
+![image](https://github.com/aadityaKasbekar/aadityaKasbekar/assets/144738512/8e4ac220-0b97-4f74-901a-853a940faafc)
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityaKasbekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aadityaKasbekar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -42,6 +64,8 @@
   </a>
 </div>
 
-### 💬 Contact Me
+###
 
-[![Outlook](https://img.shields.io/badge/-kasbekar.a@northeastern.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kasbekar.a@northeastern.edu)
+<img src="https://raw.githubusercontent.com/aadityaKasbekar/aadityaKasbekar/output/snake.svg" alt="Snake animation" />
+
+###
